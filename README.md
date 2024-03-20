@@ -1,6 +1,6 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
+[![Binder]([http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD](https://mybinder.org/v2/gh/lmsager/conda/HEAD))
 
 A Binder-compatible repo with a `requirements.txt` file.
 
